@@ -3,5 +3,8 @@
 <div>
  Hi there, this is git test
 </div>
+<div>
+Feature 1 is added
+</div>
 </body>
 </html>
