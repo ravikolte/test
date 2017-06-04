@@ -1,11 +1,10 @@
 <html>
 <body>
+
+
 <div>
- Hi there, this is git test
+Feature 1 is added
 </div>
-<p>
-changes for p1
-bvbvbvbvbvbv
-</p>
+
 </body>
 </html>
